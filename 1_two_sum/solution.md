@@ -8,7 +8,7 @@
 
 - value { value : 目标值target-nums[i] , index: 自身在数组中的index，输出结果用 }
 
-```
+```js
     var obj = {}
     for (let i = 0, len = nums.length; i < len; ++i) {
       let key = nums[i].toString()
